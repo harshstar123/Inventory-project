@@ -4,8 +4,6 @@
 ### <p align="center">IT202 - Database Management Systems Course Project</p>
 
 ### Contributors
-
-* Lakshya		(2K21/IT/101)
 * Harsh Sharma 		(2K21/IT/73)
 
 ## Introduction:
